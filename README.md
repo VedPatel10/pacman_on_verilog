@@ -4,6 +4,8 @@ This project builds a version of the classic arcade Pacman game in Verilog, test
 ## Demonstration
 ![Pacman Game Demonstration GIF](files/demonstration.gif)
 
+Full videos: [video 1](https://drive.google.com/file/d/1O4BhsNguopkUPvQ9sNKKI6SkKwKxSZgA/view?usp=sharing), [video 2](https://drive.google.com/file/d/17SJmzGGJ39T0WYURIMHcjOwNB8f5_9JI/view?usp=sharing)
+
 ## Top Level Module Overview
 ![Pacman Game Top Level Module Overview](files/highleveloverview.jpg)
 
